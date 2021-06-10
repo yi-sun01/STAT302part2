@@ -8,6 +8,7 @@
 #' @keywords prediction, inference
 #'
 #' @return A numeric with the cross-validation error.
+#' 
 #'
 #' @examples
 #' my_rf_cv(5)
