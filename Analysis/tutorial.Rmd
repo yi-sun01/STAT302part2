@@ -21,6 +21,7 @@ knitr::opts_chunk$set(
 library(STAT302package)
 
 
+
 set.seed(302)
 ```
 
